@@ -1,0 +1,600 @@
+{
+  "meta": {
+    "source": "https://web-scraping.dev",
+    "scraped_at_utc": "2025-12-30T09:42:27+00:00"
+  },
+  "products": [
+    {
+      "id": "7",
+      "name": "Hiking Boots for Outdoor Adventures",
+      "price": "89.99",
+      "url": "https://web-scraping.dev/product/7"
+    },
+    {
+      "id": "8",
+      "name": "Women's High Heel Sandals",
+      "price": "59.99",
+      "url": "https://web-scraping.dev/product/8"
+    },
+    {
+      "id": "9",
+      "name": "Running Shoes for Men",
+      "price": "49.99",
+      "url": "https://web-scraping.dev/product/9"
+    },
+    {
+      "id": "10",
+      "name": "Kids' Light-Up Sneakers",
+      "price": "29.99",
+      "url": "https://web-scraping.dev/product/10"
+    },
+    {
+      "id": "11",
+      "name": "Classic Leather Sneakers",
+      "price": "79.99",
+      "url": "https://web-scraping.dev/product/11"
+    },
+    {
+      "id": "12",
+      "name": "Cat-Ear Beanie",
+      "price": "14.99",
+      "url": "https://web-scraping.dev/product/12"
+    },
+    {
+      "id": "1",
+      "name": "Box of Chocolate Candy",
+      "price": "24.99",
+      "url": "https://web-scraping.dev/product/1"
+    },
+    {
+      "id": "2",
+      "name": "Dark Red Energy Potion",
+      "price": "4.99",
+      "url": "https://web-scraping.dev/product/2"
+    },
+    {
+      "id": "3",
+      "name": "Teal Energy Potion",
+      "price": "4.99",
+      "url": "https://web-scraping.dev/product/3"
+    },
+    {
+      "id": "4",
+      "name": "Red Energy Potion",
+      "price": "4.99",
+      "url": "https://web-scraping.dev/product/4"
+    },
+    {
+      "id": "5",
+      "name": "Blue Energy Potion",
+      "price": "4.99",
+      "url": "https://web-scraping.dev/product/5"
+    },
+    {
+      "id": "6",
+      "name": "Dragon Energy Potion",
+      "price": "4.99",
+      "url": "https://web-scraping.dev/product/6"
+    }
+  ],
+  "testimonials": [
+    {
+      "comment": "We've been using this utility for years - awesome service!"
+    },
+    {
+      "comment": "This Python app simplified my workflow significantly. Highly recommended."
+    },
+    {
+      "comment": "Had a few issues at first, but their support team is top-notch!"
+    },
+    {
+      "comment": "A fantastic tool - it has everything you need and more."
+    },
+    {
+      "comment": "The interface could be a little more user-friendly."
+    },
+    {
+      "comment": "Been a fan of this app since day one. It just keeps getting better!"
+    },
+    {
+      "comment": "The recent updates really improved the overall experience."
+    },
+    {
+      "comment": "A decent web app. There's room for improvement though."
+    },
+    {
+      "comment": "The app is reliable and efficient. I can't imagine my day without it now."
+    },
+    {
+      "comment": "Encountered some bugs. Hope they fix it soon."
+    },
+    {
+      "comment": "This web app is a game-changer! I've boosted my productivity."
+    },
+    {
+      "comment": "The features are great but it took me a while to understand how to use them."
+    },
+    {
+      "comment": "Love the simplicity and effectiveness of this app."
+    },
+    {
+      "comment": "It's an okay tool, but I've used better."
+    },
+    {
+      "comment": "Fantastic app! It's made my job so much easier."
+    },
+    {
+      "comment": "The learning curve is steep, but it's worth it."
+    },
+    {
+      "comment": "Great concept but needs more work on the execution."
+    },
+    {
+      "comment": "This app is innovative and has a lot of potentials. Keep it up!"
+    },
+    {
+      "comment": "It's a solid tool, but there are some minor issues."
+    },
+    {
+      "comment": "A great app that delivers on its promises. Very impressed."
+    },
+    {
+      "comment": "I'm blown away by the features and functionality. Incredible app!"
+    },
+    {
+      "comment": "I'm not satisfied with the app's performance. Disappointing."
+    },
+    {
+      "comment": "The customer support team went above and beyond to help me. Excellent service!"
+    },
+    {
+      "comment": "The app crashes frequently, making it unreliable for my needs."
+    },
+    {
+      "comment": "I've recommended this app to all my colleagues. It's a game-changer!"
+    },
+    {
+      "comment": "The user interface is intuitive and well-designed. Easy to navigate."
+    },
+    {
+      "comment": "I expected more from this app. It didn't meet my expectations."
+    },
+    {
+      "comment": "The app's performance has improved significantly with the latest update."
+    },
+    {
+      "comment": "This app has saved me so much time and effort. Highly efficient!"
+    },
+    {
+      "comment": "There are some minor bugs, but overall, a solid app."
+    },
+    {
+      "comment": "I've tried many similar apps, but this one stands out. Impressive!"
+    },
+    {
+      "comment": "The app's user interface could use some improvements. It feels outdated."
+    },
+    {
+      "comment": "I'm extremely satisfied with the app's performance. Works like a charm!"
+    },
+    {
+      "comment": "The app's documentation is comprehensive and easy to follow."
+    },
+    {
+      "comment": "I'm disappointed with the lack of updates and new features."
+    },
+    {
+      "comment": "This app has become an essential part of my workflow. Highly recommended!"
+    },
+    {
+      "comment": "The app is slow and unresponsive at times. Needs optimization."
+    },
+    {
+      "comment": "I love the clean and modern design of the app. Pleasing to the eye."
+    },
+    {
+      "comment": "I've encountered several bugs that hindered my productivity."
+    },
+    {
+      "comment": "This app has become an indispensable tool for me. Great job!"
+    },
+    {
+      "comment": "The app's user interface is cluttered and confusing. Difficult to navigate."
+    },
+    {
+      "comment": "I've been using this app for a while now, and it has become an essential part of my daily routine. Highly recommended!"
+    },
+    {
+      "comment": "The customer support team was unresponsive and unhelpful. Disappointing experience."
+    },
+    {
+      "comment": "This app has revolutionized the way I work. It's efficient and user-friendly."
+    },
+    {
+      "comment": "The app's performance is inconsistent. It works well sometimes, but other times it's slow and unresponsive."
+    },
+    {
+      "comment": "I'm impressed by the frequent updates and new features added to the app. It keeps getting better!"
+    },
+    {
+      "comment": "I had high hopes for this app, but it failed to meet my expectations. It lacks important features."
+    },
+    {
+      "comment": "The app's interface is intuitive and easy to navigate. I didn't face any issues while using it."
+    },
+    {
+      "comment": "This app is a must-have for anyone in the industry. It streamlines processes and saves time."
+    },
+    {
+      "comment": "I encountered a critical bug that caused data loss. It was a frustrating experience."
+    },
+    {
+      "comment": "The app's design is visually appealing, and the user experience is excellent."
+    },
+    {
+      "comment": "The app's functionality is limited. It needs more features to be truly useful."
+    },
+    {
+      "comment": "I've had a positive experience using this app. It has improved my productivity significantly."
+    },
+    {
+      "comment": "The app crashes frequently, making it unreliable for daily use."
+    },
+    {
+      "comment": "The app's customer support team was prompt and helpful in resolving my issues. Great service!"
+    },
+    {
+      "comment": "I've tried many similar apps, but this one stands out with its exceptional performance and features."
+    },
+    {
+      "comment": "The app's user interface is outdated and not intuitive. It needs a modern redesign."
+    },
+    {
+      "comment": "I'm extremely satisfied with this app. It has exceeded my expectations in every way."
+    },
+    {
+      "comment": "The app's documentation is comprehensive and easy to follow, making it easy to get started."
+    },
+    {
+      "comment": "The app's performance has been flawless. I haven't experienced any issues or slowdowns."
+    }
+  ],
+  "reviews": [
+    {
+      "product_id": "12",
+      "date": "2023-01-10",
+      "text": "A must-have for cat lovers. It's adorable and keeps me warm during chilly weather.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "24",
+      "date": "2023-01-10",
+      "text": "A must-have for cat lovers. It's adorable and keeps me warm during chilly weather.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "2",
+      "date": "2023-02-12",
+      "text": "The cherry cola flavor is very appealing. Provides a good energy boost for gaming!",
+      "source": "product_page"
+    },
+    {
+      "product_id": "2",
+      "date": "2023-03-14",
+      "text": "Definitely helped me stay focused during my long gaming nights. Plus, the bottle design is pretty cool.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "2",
+      "date": "2023-04-05",
+      "text": "Great taste, and the energy kick is awesome. Feels just like a strength potion.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "2",
+      "date": "2023-05-12",
+      "text": "The cherry cola flavor is a win. Keeps me energized and focused.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "3",
+      "date": "2023-02-12",
+      "text": "The mint and citrus blend is very refreshing. And the bottle design is great too!",
+      "source": "product_page"
+    },
+    {
+      "product_id": "3",
+      "date": "2023-03-14",
+      "text": "I love how it gives me the energy I need for my gaming sessions. Plus, no sugar crash.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "3",
+      "date": "2023-04-07",
+      "text": "Really helps me focus during intense gaming marathons. The teal color is a nice touch.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "3",
+      "date": "2023-05-18",
+      "text": "Unique flavor and great energy boost. It's the perfect gamer's drink!",
+      "source": "product_page"
+    },
+    {
+      "product_id": "4",
+      "date": "2023-02-10",
+      "text": "The berry flavor is intense and delicious. Great for keeping me focused during my gaming sessions.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "4",
+      "date": "2023-03-20",
+      "text": "Not only does it look cool, but it tastes great and gives a good energy boost!",
+      "source": "product_page"
+    },
+    {
+      "product_id": "4",
+      "date": "2023-04-09",
+      "text": "It's like a health potion for gamers! The energy boost is spot on.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "4",
+      "date": "2023-05-17",
+      "text": "Good flavor and keeps me energized. The bottle design is really fun.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "5",
+      "date": "2023-01-15",
+      "text": "The design is just epic! And the energy boost is real.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "5",
+      "date": "2023-02-20",
+      "text": "Perfect for long gaming nights. Love the taste and the cool bottle design.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "5",
+      "date": "2023-03-10",
+      "text": "Finally, an energy drink for gamers! It's just like a mana potion.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "5",
+      "date": "2023-04-01",
+      "text": "Great taste and doesn't give me a crash afterwards.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "5",
+      "date": "2023-04-25",
+      "text": "Really enjoyed the citrus flavor and the energy boost it gives.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "6",
+      "date": "2023-02-18",
+      "text": "The tropical flavor is really good, and the energy kick is powerful.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "6",
+      "date": "2023-03-15",
+      "text": "Just what I need for long gaming sessions. Great flavor and energy boost.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "6",
+      "date": "2023-04-11",
+      "text": "This potion is a game changer. Love the energy boost and the flavor.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "6",
+      "date": "2023-05-16",
+      "text": "Excellent energy drink for gamers. The tropical flavor is refreshing.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "14",
+      "date": "2023-02-12",
+      "text": "The cherry cola flavor is very appealing. Provides a good energy boost for gaming!",
+      "source": "product_page"
+    },
+    {
+      "product_id": "14",
+      "date": "2023-03-14",
+      "text": "Definitely helped me stay focused during my long gaming nights. Plus, the bottle design is pretty cool.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "14",
+      "date": "2023-04-05",
+      "text": "Great taste, and the energy kick is awesome. Feels just like a strength potion.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "14",
+      "date": "2023-05-12",
+      "text": "The cherry cola flavor is a win. Keeps me energized and focused.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "15",
+      "date": "2023-02-12",
+      "text": "The mint and citrus blend is very refreshing. And the bottle design is great too!",
+      "source": "product_page"
+    },
+    {
+      "product_id": "15",
+      "date": "2023-03-14",
+      "text": "I love how it gives me the energy I need for my gaming sessions. Plus, no sugar crash.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "15",
+      "date": "2023-04-07",
+      "text": "Really helps me focus during intense gaming marathons. The teal color is a nice touch.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "15",
+      "date": "2023-05-18",
+      "text": "Unique flavor and great energy boost. It's the perfect gamer's drink!",
+      "source": "product_page"
+    },
+    {
+      "product_id": "16",
+      "date": "2023-02-10",
+      "text": "The berry flavor is intense and delicious. Great for keeping me focused during my gaming sessions.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "16",
+      "date": "2023-03-20",
+      "text": "Not only does it look cool, but it tastes great and gives a good energy boost!",
+      "source": "product_page"
+    },
+    {
+      "product_id": "16",
+      "date": "2023-04-09",
+      "text": "It's like a health potion for gamers! The energy boost is spot on.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "16",
+      "date": "2023-05-17",
+      "text": "Good flavor and keeps me energized. The bottle design is really fun.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "17",
+      "date": "2023-01-15",
+      "text": "The design is just epic! And the energy boost is real.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "17",
+      "date": "2023-02-20",
+      "text": "Perfect for long gaming nights. Love the taste and the cool bottle design.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "17",
+      "date": "2023-03-10",
+      "text": "Finally, an energy drink for gamers! It's just like a mana potion.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "17",
+      "date": "2023-04-01",
+      "text": "Great taste and doesn't give me a crash afterwards.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "17",
+      "date": "2023-04-25",
+      "text": "Really enjoyed the citrus flavor and the energy boost it gives.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "18",
+      "date": "2023-02-18",
+      "text": "The tropical flavor is really good, and the energy kick is powerful.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "18",
+      "date": "2023-03-15",
+      "text": "Just what I need for long gaming sessions. Great flavor and energy boost.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "18",
+      "date": "2023-04-11",
+      "text": "This potion is a game changer. Love the energy boost and the flavor.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "18",
+      "date": "2023-05-16",
+      "text": "Excellent energy drink for gamers. The tropical flavor is refreshing.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "26",
+      "date": "2023-02-12",
+      "text": "The cherry cola flavor is very appealing. Provides a good energy boost for gaming!",
+      "source": "product_page"
+    },
+    {
+      "product_id": "26",
+      "date": "2023-03-14",
+      "text": "Definitely helped me stay focused during my long gaming nights. Plus, the bottle design is pretty cool.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "26",
+      "date": "2023-04-05",
+      "text": "Great taste, and the energy kick is awesome. Feels just like a strength potion.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "26",
+      "date": "2023-05-12",
+      "text": "The cherry cola flavor is a win. Keeps me energized and focused.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "27",
+      "date": "2023-02-12",
+      "text": "The mint and citrus blend is very refreshing. And the bottle design is great too!",
+      "source": "product_page"
+    },
+    {
+      "product_id": "27",
+      "date": "2023-03-14",
+      "text": "I love how it gives me the energy I need for my gaming sessions. Plus, no sugar crash.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "27",
+      "date": "2023-04-07",
+      "text": "Really helps me focus during intense gaming marathons. The teal color is a nice touch.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "27",
+      "date": "2023-05-18",
+      "text": "Unique flavor and great energy boost. It's the perfect gamer's drink!",
+      "source": "product_page"
+    },
+    {
+      "product_id": "28",
+      "date": "2023-02-10",
+      "text": "The berry flavor is intense and delicious. Great for keeping me focused during my gaming sessions.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "28",
+      "date": "2023-03-20",
+      "text": "Not only does it look cool, but it tastes great and gives a good energy boost!",
+      "source": "product_page"
+    },
+    {
+      "product_id": "28",
+      "date": "2023-04-09",
+      "text": "It's like a health potion for gamers! The energy boost is spot on.",
+      "source": "product_page"
+    },
+    {
+      "product_id": "28",
+      "date": "2023-05-17",
+      "text": "Good flavor and keeps me energized. The bottle design is really fun.",
+      "source": "product_page"
+    }
+  ]
+}
